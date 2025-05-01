@@ -1,0 +1,11 @@
+- Which property type has the highest average price?
+- Which property type is most in demand?
+- In which cities are the most properties sold?
+- Which cities have the highest average property prices?
+- What is the average property area per city?
+- How is the distribution of property types in each city?
+- What is the trend of property sales over the year?
+- What is the trend of property sales over the year by type?
+
+- What is the relationship between price Vs. area, number of bathrooms and number of bedrooms?
+- What is the distribution of property prices?
