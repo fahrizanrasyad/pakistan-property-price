@@ -24,3 +24,6 @@ This project focuses on residential property prices (houses, flat, apartments) i
 
 ## Use Case:
 This analysis can support real estate investors, property buyers, and policymakers in understanding the dynamics of the Pakistani property market and making data-driven decisions.
+
+## Interactive Visualizations
+    ```https://public.tableau.com/views/PakistanPropertyPrice/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link```
