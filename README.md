@@ -8,7 +8,7 @@ This project focuses on residential property prices (houses, flat, apartments) i
 
 ## Data Sources:
 
-    ```https://www.kaggle.com/datasets/ebrahimhaquebhatti/pakistan-house-price-prediction/data```
+    https://www.kaggle.com/datasets/ebrahimhaquebhatti/pakistan-house-price-prediction/data
 
 ## Key Tools & Techniques:
 
@@ -26,4 +26,4 @@ This project focuses on residential property prices (houses, flat, apartments) i
 This analysis can support real estate investors, property buyers, and policymakers in understanding the dynamics of the Pakistani property market and making data-driven decisions.
 
 ## Interactive Visualizations
-    ```https://public.tableau.com/views/PakistanPropertyPrice/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link```
+    https://public.tableau.com/views/PakistanPropertyPrice/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
